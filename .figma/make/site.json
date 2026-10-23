@@ -1,0 +1,11 @@
+{
+  "title": "Dhiane's Digital Portfolio",
+  "description": "Showcase your digital portfolio with a sleek, scroll-responsive menu and visually striking sections to highlight past, present, and future work.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
